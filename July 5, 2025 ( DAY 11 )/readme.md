@@ -75,4 +75,9 @@ The model learns linguistic structures, semantics, and patterns by analyzing rel
 | **Examples**             | Expert systems, autonomous vehicles, smart assistants        | Spam detection, recommendation systems, image recognition |
 | **Training**             | May or may not involve learning from data                    | Always involves learning from data                        |
 
----
+
+**By**  : Aditi Tangri
+
+**URN**  : 2302460  
+
+**CRN**  : 2315004
