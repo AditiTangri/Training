@@ -71,3 +71,9 @@ The `clear` command is a standard command to clear the terminal screen.
 ```bash
 clear
 ```
+
+**By**: Aditi Tangri
+
+**URN**: 2302460  
+
+**CRN**: 2315004
