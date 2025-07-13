@@ -1,4 +1,5 @@
 # ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING  
+**DAY - 1**
 **Date**: 23 June 2025  
 
 ---
@@ -29,7 +30,7 @@
 
 ---
 
-**By**: *Aditi Tangri*  
+**By**: Aditi Tangri
 **URN**: 2302460  
 **CRN**: 2315004
 
