@@ -1,5 +1,5 @@
 # ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING  
-**DAY - 1**
+#### **DAY - 1**
 **Date**: 23 June 2025  
 
 ---
