@@ -64,6 +64,11 @@ Now that it's running, simply start typing questions or prompts directly into yo
  
 
 
+**By:** Aditi Tangri  
+
+**URN:** 2302460  
+
+**CRN:** 2315004  
 
 
 
