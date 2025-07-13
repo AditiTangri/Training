@@ -1,7 +1,7 @@
 # ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING  
 **DAY - 14**
 
-**Date:** 14 July 2025  
+**Date:** 10 July 2025  
 
 ## Logistic Regression in Machine Learning
 
