@@ -1,4 +1,5 @@
-# Face Recognition-Based Attendance System  
+# ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+## PROJECT : Face Recognition-Based Attendance System  
 **DAY - 21**
 
 **Date:** 21 July 2025  
