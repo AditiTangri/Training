@@ -1,7 +1,7 @@
 # ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING  
 **DAY - 20**
 
-**Date:** 18 June 2025  
+**Date:** 18 July 2025  
 
 ---
 
