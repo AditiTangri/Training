@@ -1,5 +1,5 @@
-# Project Workflow  
-**Project:** Face Recognition-Based Attendance System  
+# ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+## PROJECT : Face Recognition-Based Attendance System   
 **DAY - 22**
 
 **Date:** 22 July 2025  
